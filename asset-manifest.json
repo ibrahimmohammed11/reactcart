@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "//reactcart/static/css/main.288b8e07.chunk.css",
+    "main.js": "//reactcart/static/js/main.3a2f52e2.chunk.js",
+    "main.js.map": "//reactcart/static/js/main.3a2f52e2.chunk.js.map",
+    "runtime-main.js": "//reactcart/static/js/runtime-main.7960ccfa.js",
+    "runtime-main.js.map": "//reactcart/static/js/runtime-main.7960ccfa.js.map",
+    "static/css/2.6764fa8e.chunk.css": "//reactcart/static/css/2.6764fa8e.chunk.css",
+    "static/js/2.5883593f.chunk.js": "//reactcart/static/js/2.5883593f.chunk.js",
+    "static/js/2.5883593f.chunk.js.map": "//reactcart/static/js/2.5883593f.chunk.js.map",
+    "index.html": "//reactcart/index.html",
+    "static/css/2.6764fa8e.chunk.css.map": "//reactcart/static/css/2.6764fa8e.chunk.css.map",
+    "static/css/main.288b8e07.chunk.css.map": "//reactcart/static/css/main.288b8e07.chunk.css.map",
+    "static/js/2.5883593f.chunk.js.LICENSE.txt": "//reactcart/static/js/2.5883593f.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "//reactcart/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7960ccfa.js",
+    "static/css/2.6764fa8e.chunk.css",
+    "static/js/2.5883593f.chunk.js",
+    "static/css/main.288b8e07.chunk.css",
+    "static/js/main.3a2f52e2.chunk.js"
+  ]
+}
