@@ -1,0 +1,28 @@
+.imgStyle {
+  width: 80px;
+  height: 100px;
+}
+.addBtn {
+  background-color: #7adac0;
+  color: white;
+  font-size: 20px;
+}
+.minBtn {
+  background-color: #7adac0;
+  color: white;
+  font-size: 20px;
+}
+.delBtn {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+}
+.numSt {
+  font-size: 20px;
+}
+.emptyCart {
+  font-size: 30px;
+  margin-top: 20px;
+  color: #293250;
+  font-weight: bolder;
+}

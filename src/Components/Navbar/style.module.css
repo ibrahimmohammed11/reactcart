@@ -1,0 +1,19 @@
+.navColor {
+  background-color: #7adac0;
+}
+.colorSt {
+  color: #293250;
+  font-size: 30px;
+}
+.colorSt:hover {
+  color: #efefe8ff;
+  cursor: pointer;
+}
+.cartCount {
+  background-color: #293250;
+  color: white;
+  margin-left: 5px;
+  border-radius: 5px;
+  padding: 4px 8px;
+  font-size: 20px;
+}
